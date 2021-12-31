@@ -8,7 +8,7 @@ Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Objec
 •	Numpy   
 
 ## Results
-•	Saliency maps mentioned in the paper can be download from [here](https://pan.baidu.com/s/1aEOSRSOEDloITsBbjqiGKQ ) [code:h66a]  
+•	Saliency maps mentioned in the paper can be download from [here](https://pan.baidu.com/s/1aEOSRSOEDloITsBbjqiGKQ ) [code: h66a]  
 •	The saliency results can be evaluated by using the tool in [Matlab](http://dpfan.net/d3netbenchmark/)  
 
 ## Citation
