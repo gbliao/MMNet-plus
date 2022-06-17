@@ -2,8 +2,8 @@
 Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection. [PDF](https://ieeexplore.ieee.org/document/9439490)
 
 ## Requirements
-•	pytorch 1.3.0+   
-•	torchvision   
+•	Pytorch 1.3.0+   
+•	Torchvision   
 •	PIL   
 •	Numpy   
 
@@ -14,14 +14,13 @@ Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Objec
 ## Citation
 Please cite our paper if you use this repository in your reseach.
 ```
-@ARTICLE{MMNet_TCSVT21,  
-author={Gao, Wei and Liao, Guibiao and Ma, Siwei and Li, Ge and Liang, Yongsheng and Lin, Weisi},  
-journal={IEEE Transactions on Circuits and Systems for Video Technology},   
-title={Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection},   
-year={2021},  
-volume={},  
-number={},  
-pages={1-1},  
-doi={10.1109/TCSVT.2021.3082939}
-}
+@ARTICLE{MMNet_TCSVT2021,
+  author={Gao, Wei and Liao, Guibiao and Ma, Siwei and Li, Ge and Liang, Yongsheng and Lin, Weisi},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Unified Information Fusion Network for Multi-Modal RGB-D and RGB-T Salient Object Detection}, 
+  year={2022},  
+  volume={32},
+  number={4},
+  pages={2091-2106},
+  }
 ```
